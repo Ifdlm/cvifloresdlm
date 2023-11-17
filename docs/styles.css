@@ -12,6 +12,10 @@ header {
   text-align: center;
   padding: 20px;
 }
+header img {
+  width: 150px; /* Ajusta el ancho según sea necesario */
+  border-radius: 50%; /* Agrega bordes redondeados */
+  margin-top: 10px; /* Ajusta la separación desde el texto superior */
 
 section {
   margin: 20px;

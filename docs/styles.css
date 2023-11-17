@@ -14,9 +14,9 @@ header {
 }
 
 header img {
-  width: 150px; /* Ajusta el ancho según sea necesario */
-  border-radius: 50%; /* Agrega bordes redondeados */
-  margin-top: 10px; /* Ajusta la separación desde el texto superior */
+  width: 150px; /* En esta parte me tuve que apoyar en plantillas de internet para saber cómo ajustar la imagen en el sitio. En este caso, acá defino el ancho según sea necesario */
+  border-radius: 50%; /* Acá definí el porcentaje de los bordes redondeados de la imagen */
+  margin-top: 10px; /* Acá debo precisar qué tan separada quiero la imagen desde el texto superior, en este caso el header */
 
 section {
   margin: 20px;

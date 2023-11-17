@@ -7,15 +7,15 @@ body {
 }
 
 header {
-  background-color: #87CEEB; /* Celeste */
+  background-color: #8798eb; /* Acá seleccione el color para mi CV digital, en este caso lo hice buscando paletas de colores para encontrar el código del color. Es azul claro. */
   color: #fff;
   text-align: center;
   padding: 20px;
 }
 header img {
-  width: 150px; /* Ajusta el ancho según sea necesario */
-  border-radius: 50%; /* Agrega bordes redondeados */
-  margin-top: 10px; /* Ajusta la separación desde el texto superior */
+  width: 150px; /* En esta parte del trabajo, recurrí a internet para saber cómo darle diseño a la imagen. Acá el código indica el ancho que yo considero necesario */
+  border-radius: 50%; /* Acá le estoy indicando en qué porcentaje quiero los bordes redondeados */
+  margin-top: 10px; /* Por último, acá se le indica la separación de la imagen con el texto superior */
 
 section {
   margin: 20px;
